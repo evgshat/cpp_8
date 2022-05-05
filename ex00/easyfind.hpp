@@ -19,7 +19,6 @@ void easyfind(T &data, int num)
 	{
 		std::cerr << str << '\n';
 	}
-	// T::iterator iter = type.begin();
 }
 
 #endif

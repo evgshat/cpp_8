@@ -2,12 +2,6 @@
 
 int main()
 {
-	// std::vector<int> vec;
-	// for (int i = 0; i < 3; i++)
-	// vec.push_back(i);
-
-	// for (int i = 0; i < 3; i++)
-	// 	std::cout << vec[i] << std::endl;
 	std::list<int> arr1;
 	for (int i = 0; i < 15; i++)
 		arr1.push_back(i);
